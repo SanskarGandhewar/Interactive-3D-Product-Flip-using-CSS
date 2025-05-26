@@ -1,6 +1,6 @@
-# Interactive-3D-Product-Flip-using-CSS
-🍺 Crazy 3D Rotation Effect (Beer Can UI Animation)
+# Interactive-3D-Product-Flip-using-CSS (Beer Can UI Animation)
 
+🍺 Crazy 3D Rotation Effect 
 This project showcases a **crazy 3D rotation hover effect** for beer cans, built using **pure HTML and CSS**. It simulates a product flip animation where two beer can images rotate and swap in 3D space, enhanced with background visuals and responsive design.
 
 ---
