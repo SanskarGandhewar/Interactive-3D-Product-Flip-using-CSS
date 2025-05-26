@@ -13,6 +13,5 @@ This project showcases a **crazy 3D rotation hover effect** for beer cans, built
 - 🖼️ Stylish product mockup background
 - 📱 Responsive layout for various screen sizes
 
----
 
 
